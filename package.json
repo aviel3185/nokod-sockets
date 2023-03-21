@@ -1,0 +1,25 @@
+{
+  "name": "nokod-sockets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviel3185/nokod-sockets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aviel3185/nokod-sockets/issues"
+  },
+  "homepage": "https://github.com/aviel3185/nokod-sockets#readme",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1"
+  }
+}
